@@ -1,2 +1,2 @@
 # LRW
-Te little Red Wagon Project
+The little Red Wagon Project
